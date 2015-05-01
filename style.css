@@ -1,4 +1,28 @@
+html {
+	background-color: #71CCFD;
+}
+.header {
+	font-size: 70px;
+	color: #2B3E51;
+	text-align: center;
+	padding: 40px;
+}
+.textbox {
+	padding: 20px 40px;
+}
+.textboxheader {
+	font-size: 40px;
+	text-align: center;
+}
+p {
+	font-size: 20px;
+	text-align: justify;
+}
 .parallax-window {
     min-height: 400px;
     background: transparent;
+}
+.footer {
+	padding: 40px;
+	text-align: center;
 }
